@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="check">Check</string>
+    <string name="question">Question</string>
+    <string name="correct">Perfect!</string>
+    <string name="incorrect">keep studying...</string>
+
+    <string name="question_conten">What is the capital of Vallès Occidental?</string>
+    <array name="answers">
+        <item>Terrassa</item>
+        <item>Sabadell</item>
+        <item>Sant Cugat</item>
+        <item>Sabadell &amp; Terrassa</item>
+    </array>
+    <integer name="correct_answer">3</integer>
+
+</resources>
